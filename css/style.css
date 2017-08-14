@@ -6,7 +6,12 @@
 
 header {
     height: 93px;
-    /*background-color: #d13328;*/
+    
+}
+
+header img{
+    width: 500px;
+    height: 92px;
 }
 
 .row0 ul {
@@ -36,7 +41,7 @@ header {
 
 .heroimage {
     height: 630px;
-    background: url("../images/1.jpg");
+    background: url("../images/heroimage.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -96,25 +101,25 @@ header {
 }
 
 .row3 .left {
-    background-image: url("../images/9.jpeg");
+    background-image: url("../images/weather.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .row3 .middle {
-    background-image: url("../images/8.png");
+    background-image: url("../images/table.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .row3 .right {
-    background-image: url("../images/7.png");
+    background-image: url("../images/heatmap.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .row4 .left {
-    background-image: url("../images/10.png");
+    background-image: url("../images/london.png");
     background-size: cover;
 }
 
